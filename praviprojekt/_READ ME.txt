@@ -1,3 +1,0 @@
-za admin perme:
-username: AdminJedanJedini
-pass:theGoatLeBonBon518
